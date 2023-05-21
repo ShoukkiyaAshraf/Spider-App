@@ -1,0 +1,16 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 268 230.39999389648438" width="268" height="230.39999389648438">
+  <!-- svg-source:excalidraw -->
+  
+  <defs>
+    <style class="style-fonts">
+      @font-face {
+        font-family: "Virgil";
+        src: url("https://excalidraw.com/Virgil.woff2");
+      }
+      @font-face {
+        font-family: "Cascadia";
+        src: url("https://excalidraw.com/Cascadia.woff2");
+      }
+    </style>
+  </defs>
+  <g stroke-linecap="round" transform="translate(10 10) rotate(0 124 105.19999694824219)"><path d="M32 0 M32 0 C87.83 -1.46, 142.06 0.26, 216 0 M216 0 C236.42 -0.59, 248.9 9.57, 248 32 M248 32 C248.87 68.34, 248.36 107.72, 248 178.4 M248 178.4 C249.7 201.66, 235.81 212.27, 216 210.4 M216 210.4 C172.04 211.66, 127.76 211.28, 32 210.4 M32 210.4 C8.68 210.12, -1.79 198.58, 0 178.4 M0 178.4 C0.19 141.58, 0.36 102.24, 0 32 M0 32 C1.29 11.42, 12.46 -0.92, 32 0" stroke="#ffffffff" stroke-width="1.5" fill="none" stroke-dasharray="1.5 7"></path></g></svg>
