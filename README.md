@@ -1,6 +1,6 @@
-## Author - Shoukkiya Ashraf
+### Author - Shoukkiya Ashraf
 
-## reference - https://medium.com/imaginelearning/building-a-react-application-ec8cbf6b8694 - Eric Gibby
+##### reference - https://medium.com/imaginelearning/building-a-react-application-ec8cbf6b8694 - Eric Gibby
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
